@@ -2,9 +2,11 @@
 
 ## 🇺🇦 Опис
 
-Веб-додаток для пошуку та перегляду інформації про фільми, розроблений з використанням React та TMDB API. 
+Веб-додаток для пошуку та перегляду інформації про фільми, розроблений з
+використанням React та TMDB API.
 
 ### Функціональність:
+
 - Перегляд трендових фільмів на головній сторінці
 - Пошук фільмів за ключовими словами
 - Детальна інформація про кожен фільм
@@ -14,6 +16,7 @@
 - Зручна навігація з кнопкою повернення вгору
 
 ### Технології:
+
 - React
 - React Router для маршрутизації
 - CSS Modules для стилізації
@@ -23,9 +26,11 @@
 
 ## 🇬🇧 Description
 
-A web application for searching and viewing movie information, developed using React and TMDB API.
+A web application for searching and viewing movie information, developed using
+React and TMDB API.
 
 ### Features:
+
 - View trending movies on the home page
 - Search for movies by keywords
 - Detailed information about each movie
@@ -35,6 +40,7 @@ A web application for searching and viewing movie information, developed using R
 - Convenient navigation with scroll-to-top button
 
 ### Technologies:
+
 - React
 - React Router for routing
 - CSS Modules for styling
@@ -60,21 +66,9 @@ npm run build
 
 ## Environment Variables | Змінні середовища
 
-Create a `.env` file in the root directory and add your TMDB API key:
-Створіть файл `.env` в кореневій папці та додайте свій TMDB API ключ:
+Create a `.env` file in the root directory and add your TMDB API key: Створіть
+файл `.env` в кореневій папці та додайте свій TMDB API ключ:
 
 ```
 VITE_TMDB_API_KEY=your_api_key_here
 ```
-
-## Screenshots | Скріншоти
-
-[Add screenshots here | Додайте скріншоти тут]
-
-## License | Ліцензія
-
-MIT License | Ліцензія MIT
-
-## Contact | Контакти
-
-[Add your contact information here | Додайте вашу контактну інформацію тут]
